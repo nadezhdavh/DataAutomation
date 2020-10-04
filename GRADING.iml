@@ -27,7 +27,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:6.11" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.64" level="project" />
-    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.27" level="project" />
     <orderEntry type="library" name="Maven: com.oracle.ojdbc:ojdbc8:19.3.0.0" level="project" />
     <orderEntry type="library" name="Maven: com.oracle.ojdbc:ucp:19.3.0.0" level="project" />
     <orderEntry type="library" name="Maven: com.oracle.ojdbc:oraclepki:19.3.0.0" level="project" />
@@ -48,19 +48,19 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:5.3.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-security:2.4.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:5.4.0-M1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:5.4.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:5.4.0-M1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:5.4.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:2.4.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-json:2.4.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.1" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.1" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:2.4.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.36" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.38" level="project" />
     <orderEntry type="library" name="Maven: org.glassfish:jakarta.el:3.0.3" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.36" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.38" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:5.3.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:5.3.0-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.springframework.boot:spring-boot-devtools:2.4.0-SNAPSHOT" level="project" />
@@ -75,44 +75,44 @@
     <orderEntry type="library" name="Maven: org.ow2.asm:asm:5.0.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: jakarta.activation:jakarta.activation-api:1.2.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:3.16.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:3.17.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest:2.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter:5.6.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.6.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter:5.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.6.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-params:5.6.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.6.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.6.2" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-core:3.3.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy:1.10.12" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy-agent:1.10.12" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.objenesis:objenesis:2.6" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-junit-jupiter:3.3.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-params:5.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-core:3.5.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy:1.10.14" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.bytebuddy:byte-buddy-agent:1.10.14" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.objenesis:objenesis:3.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-junit-jupiter:3.5.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.skyscreamer:jsonassert:1.5.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.0-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.3.0-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.7.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.restdocs:spring-restdocs-mockmvc:2.0.4.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.restdocs:spring-restdocs-mockmvc:2.0.5.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: javax.servlet:javax.servlet-api:4.0.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.restdocs:spring-restdocs-core:2.0.4.RELEASE" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.security:spring-security-test:5.4.0-M1" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:5.4.0-M1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.restdocs:spring-restdocs-core:2.0.5.RELEASE" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.security:spring-security-test:5.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:5.4.0" level="project" />
     <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:2.4.0-M1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-rest-core:3.3.1.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.3.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.hateoas:spring-hateoas:1.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.hateoas:spring-hateoas:1.2.0-M1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.atteo:evo-inflector:1.2.2" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.1" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.1" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.2" level="project" />
     <orderEntry type="library" name="Maven: javax.validation:validation-api:2.0.1.Final" level="project" />
   </component>
 </module>
